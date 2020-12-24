@@ -1,4 +1,4 @@
-# Data-Analytics - Price-Prediction
+# ML - Price-Prediction
 
 ## Dependencies
 
